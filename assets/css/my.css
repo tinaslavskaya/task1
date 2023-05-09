@@ -1,0 +1,95 @@
+
+.caja_premio {
+     max-width: 100%;
+     margin: 0 auto;
+}
+
+
+.survey_button {
+     background-color: #ed9220;
+}
+
+
+.form-comment {
+     margin-top: 2rem;
+     margin-bottom: 2rem;
+}
+
+#exampleFormControlTextarea1 {
+     resize: none;
+}
+
+
+.new-comments{
+     background-color:
+     #eeeff4;border-bottom:2px solid #fff;
+     padding:10px;
+     display:block; 
+     text-align: start;
+}
+.new-profile {
+     float:left;
+     width:60px;
+     margin-right:10px
+}
+.new-comment-content img, .new-profile img{
+     width:100%
+}
+.new-comment-content img,.new-profile img,.new-comment-status img{
+     margin:0 auto
+}
+.new-comment-content{
+     padding-left:70px
+}
+p.new-name{
+     margin:0;
+     font-weight:700
+}
+.new-comment-status span,.new-name{
+     color:#3b5998
+}
+
+.new-name, .new-profile{
+     cursor:pointer
+}
+.new-comment-status{
+    
+     vertical-align: inherit;
+     font-size:11px;
+     cursor:pointer;
+     text-align: left;
+}
+.new-comment-status span,.new-name{
+     color:#3b5998
+}
+
+.new-clr{
+     clear:both
+}
+
+.span-like::after {
+     content: '·';
+}
+
+.span-space {
+     margin-left: 3px;
+}
+
+.img-like {
+     width: 15px;
+     height: 15px;
+}
+
+.span-count {
+     margin-left: 3px;
+     margin-right: 2px;
+}
+
+.last-time {
+     margin-left: 2px;
+     font-size: 10px;
+}
+
+.color-red::placeholder {
+     color: red;
+}
